@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>cs_recaptcha_v2</name>
+    <displayName><![CDATA[reCaptcha v2]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Ajouter un reCaptcha v2 à votre formulaire de contact]]></description>
+    <author><![CDATA[comonsoft]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <confirmUninstall><![CDATA[Êtes-vous sur de vouloir désinstaller ?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

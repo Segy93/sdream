@@ -1,0 +1,33 @@
+DATETIME,ERRORLEVEL,TAG,VALUE,LINE,FILE
+"2017-05-08 00:27:24",INFO,--,"Starting installation.",199,/var/sentora/hostdata/admin/public_html/sdreamshop_mateamprojects_in_rs/modules/payplug/payplug.php
+"2017-05-08 00:27:28",INFO,--,"Order state creation starting.",386,/var/sentora/hostdata/admin/public_html/sdreamshop_mateamprojects_in_rs/modules/payplug/payplug.php
+"2017-05-08 00:27:28",INFO,--,"Order state: paid",468,/var/sentora/hostdata/admin/public_html/sdreamshop_mateamprojects_in_rs/modules/payplug/payplug.php
+"2017-05-08 00:27:28",INFO,--,"Live context.",471,/var/sentora/hostdata/admin/public_html/sdreamshop_mateamprojects_in_rs/modules/payplug/payplug.php
+"2017-05-08 00:27:28",INFO,--,"Test context.",520,/var/sentora/hostdata/admin/public_html/sdreamshop_mateamprojects_in_rs/modules/payplug/payplug.php
+"2017-05-08 00:27:28",INFO,--,"Creating new order state.",527,/var/sentora/hostdata/admin/public_html/sdreamshop_mateamprojects_in_rs/modules/payplug/payplug.php
+"2017-05-08 00:27:28",INFO,--,"ID: 2",553,/var/sentora/hostdata/admin/public_html/sdreamshop_mateamprojects_in_rs/modules/payplug/payplug.php
+"2017-05-08 00:27:28",INFO,--,"Order state: refund",468,/var/sentora/hostdata/admin/public_html/sdreamshop_mateamprojects_in_rs/modules/payplug/payplug.php
+"2017-05-08 00:27:28",INFO,--,"Live context.",471,/var/sentora/hostdata/admin/public_html/sdreamshop_mateamprojects_in_rs/modules/payplug/payplug.php
+"2017-05-08 00:27:28",INFO,--,"Test context.",520,/var/sentora/hostdata/admin/public_html/sdreamshop_mateamprojects_in_rs/modules/payplug/payplug.php
+"2017-05-08 00:27:28",INFO,--,"Creating new order state.",527,/var/sentora/hostdata/admin/public_html/sdreamshop_mateamprojects_in_rs/modules/payplug/payplug.php
+"2017-05-08 00:27:28",INFO,--,"ID: 7",553,/var/sentora/hostdata/admin/public_html/sdreamshop_mateamprojects_in_rs/modules/payplug/payplug.php
+"2017-05-08 00:27:28",INFO,--,"Order state: pending",468,/var/sentora/hostdata/admin/public_html/sdreamshop_mateamprojects_in_rs/modules/payplug/payplug.php
+"2017-05-08 00:27:28",INFO,--,"Live context.",471,/var/sentora/hostdata/admin/public_html/sdreamshop_mateamprojects_in_rs/modules/payplug/payplug.php
+"2017-05-08 00:27:28",INFO,--,"Creating new order state.",489,/var/sentora/hostdata/admin/public_html/sdreamshop_mateamprojects_in_rs/modules/payplug/payplug.php
+"2017-05-08 00:27:28",INFO,--,"ID: 17",515,/var/sentora/hostdata/admin/public_html/sdreamshop_mateamprojects_in_rs/modules/payplug/payplug.php
+"2017-05-08 00:27:28",INFO,--,"Test context.",520,/var/sentora/hostdata/admin/public_html/sdreamshop_mateamprojects_in_rs/modules/payplug/payplug.php
+"2017-05-08 00:27:28",INFO,--,"Creating new order state.",527,/var/sentora/hostdata/admin/public_html/sdreamshop_mateamprojects_in_rs/modules/payplug/payplug.php
+"2017-05-08 00:27:28",INFO,--,"ID: 17",553,/var/sentora/hostdata/admin/public_html/sdreamshop_mateamprojects_in_rs/modules/payplug/payplug.php
+"2017-05-08 00:27:28",INFO,--,"Order state: error",468,/var/sentora/hostdata/admin/public_html/sdreamshop_mateamprojects_in_rs/modules/payplug/payplug.php
+"2017-05-08 00:27:28",INFO,--,"Live context.",471,/var/sentora/hostdata/admin/public_html/sdreamshop_mateamprojects_in_rs/modules/payplug/payplug.php
+"2017-05-08 00:27:28",INFO,--,"Test context.",520,/var/sentora/hostdata/admin/public_html/sdreamshop_mateamprojects_in_rs/modules/payplug/payplug.php
+"2017-05-08 00:27:28",INFO,--,"Creating new order state.",527,/var/sentora/hostdata/admin/public_html/sdreamshop_mateamprojects_in_rs/modules/payplug/payplug.php
+"2017-05-08 00:27:28",INFO,--,"ID: 8",553,/var/sentora/hostdata/admin/public_html/sdreamshop_mateamprojects_in_rs/modules/payplug/payplug.php
+"2017-05-08 00:27:28",INFO,--,"Order state creation ended.",557,/var/sentora/hostdata/admin/public_html/sdreamshop_mateamprojects_in_rs/modules/payplug/payplug.php
+"2017-05-08 00:27:28",INFO,--,"Installation SQL Starting.",598,/var/sentora/hostdata/admin/public_html/sdreamshop_mateamprojects_in_rs/modules/payplug/payplug.php
+"2017-05-08 00:27:28",INFO,--,"Installation SQL ended.",668,/var/sentora/hostdata/admin/public_html/sdreamshop_mateamprojects_in_rs/modules/payplug/payplug.php
+"2017-05-08 00:27:28",INFO,--,"Installation complete.",243,/var/sentora/hostdata/admin/public_html/sdreamshop_mateamprojects_in_rs/modules/payplug/payplug.php
+"2017-05-08 00:28:10",INFO,--,"Starting uninstallation.",263,/var/sentora/hostdata/admin/public_html/sdreamshop_mateamprojects_in_rs/modules/payplug/payplug.php
+"2017-05-08 00:28:10",INFO,--,"Uninstallation SQL starting.",680,/var/sentora/hostdata/admin/public_html/sdreamshop_mateamprojects_in_rs/modules/payplug/payplug.php
+"2017-05-08 00:28:10",INFO,--,"Uninstallation SQL ended.",722,/var/sentora/hostdata/admin/public_html/sdreamshop_mateamprojects_in_rs/modules/payplug/payplug.php
+"2017-05-08 00:28:10",INFO,--,"Uninstallation complete.",276,/var/sentora/hostdata/admin/public_html/sdreamshop_mateamprojects_in_rs/modules/payplug/payplug.php

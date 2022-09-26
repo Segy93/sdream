@@ -1,0 +1,5 @@
+*ERROR* 	2018/03/06 - 09:54:46: Query execution was interrupted<br /><br /><pre>
+		SELECT *
+		FROM `ps_currency` c
+		 INNER JOIN ps_currency_shop currency_shop
+		ON (currency_shop.id_currency = c.id_currency AND currency_shop.id_shop = 1) WHERE `deleted` = 0 AND c.`active` = 1 ORDER BY `name` ASC</pre> at line 791 in file classes/db/Db.php

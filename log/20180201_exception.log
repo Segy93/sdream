@@ -1,0 +1,1 @@
+*ERROR* 	2018/02/01 - 15:04:57: Query execution was interrupted<br /><br /><pre>SELECT * FROM `ps_contentbox_files` where `id_store`=1 and `id_lang`=2 LIMIT 1</pre> at line 791 in file classes/db/Db.php

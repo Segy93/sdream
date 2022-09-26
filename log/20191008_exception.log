@@ -1,0 +1,5 @@
+*ERROR* 	2019/10/08 - 04:32:54: Trenutni &scaron;ablin je nedostupan &quot;default-bootstrap&quot;. Proverite ime direktorijum va&scaron;eg &scaron;ablona i njegove dozvole. at line 259 in file classes/controller/FrontController.php
+*ERROR* 	2019/10/08 - 04:32:54: Trenutni &scaron;ablin je nedostupan &quot;default-bootstrap&quot;. Proverite ime direktorijum va&scaron;eg &scaron;ablona i njegove dozvole. at line 259 in file classes/controller/FrontController.php
+*ERROR* 	2019/10/08 - 04:33:05: Trenutni &scaron;ablin je nedostupan &quot;default-bootstrap&quot;. Proverite ime direktorijum va&scaron;eg &scaron;ablona i njegove dozvole. at line 259 in file classes/controller/FrontController.php
+*ERROR* 	2019/10/08 - 04:33:05: Trenutni &scaron;ablin je nedostupan &quot;default-bootstrap&quot;. Proverite ime direktorijum va&scaron;eg &scaron;ablona i njegove dozvole. at line 259 in file classes/controller/FrontController.php
+*ERROR* 	2019/10/08 - 21:54:15: APC cache has been enabled, but the APC or APCu extension is not available at line 43 in file classes/cache/CacheApc.php

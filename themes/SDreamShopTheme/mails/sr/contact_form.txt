@@ -1,0 +1,15 @@
+[/{shop_url}] 
+
+Vaša poruka za {shop_name} Korisnički servis 
+
+Vaša poruka je uspešno poslata.
+
+PREDMET PORUKE: {extrafield}
+PORUKA: {message}
+	 
+
+Odgovorićemo što je pre moguće. 
+
+All rights reserved © 2013 - 2017 {shop_name}
+
+

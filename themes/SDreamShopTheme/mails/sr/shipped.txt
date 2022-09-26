@@ -1,0 +1,13 @@
+Zdravo {firstname} {lastname},
+
+Vaša porudžbina je poslata.
+
+Vaša porudžbina sa referencom {order_name}  je poslata na izabranu adresu.
+
+Hvala Vam na kupovini - {shop_name}! 		 
+
+Na strtranici "Moje porudžbine" možete videti sve detalje u vezi sa vašim porudžbinama. 
+
+Na stranici "Moj nalog" se nalazi korisnički panel na kome možete videti sve detalje u vezi sa vašim nalogom .
+
+All rights reserved © 2013 - 2017 {shop_name}

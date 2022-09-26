@@ -1,0 +1,22 @@
+Message from a {email} customer 
+
+Type of Customer Message: {extrafield3}
+
+CUSTOMER E-MAIL ADDRESS: {email}
+
+FULL NAME: {extrafield2}
+
+Telephone number: {extrafield3}
+
+SUBJECT: {extrafield}
+
+CUSTOMER MESSAGE: {message}
+
+ORDER ID: {extrafield3}
+
+
+
+		 
+
+
+

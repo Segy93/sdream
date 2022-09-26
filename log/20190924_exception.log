@@ -1,0 +1,25 @@
+*ERROR* 	2019/09/24 - 05:10:36: Table 'sdream_webshop.ps_ps_popust_duseci' doesn't exist<br /><br /><pre>SELECT * FROM ps_ps_popust_duseci WHERE id_cart = 9518</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/09/24 - 05:10:49: Unknown column 'id_cart' in 'where clause'<br /><br /><pre>SELECT * FROM ps_popust_duseci WHERE id_cart = 9518</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/09/24 - 05:35:01: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '05:35:01am
+						WHERE `cartId` = 9518' at line 2<br /><br /><pre>
+						UPDATE `ps_popust_duseci`
+						SET  `SmanjenjeCeneProizvoda` = 853, `date` = 2019-09-24 05:35:01am
+						WHERE `cartId` = 9518</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/09/24 - 05:35:42: Unknown column '2019-09-24 05:35:41am' in 'field list'<br /><br /><pre>
+						UPDATE `ps_popust_duseci`
+						SET  `SmanjenjeCeneProizvoda` = 853, `date` = `2019-09-24 05:35:41am`
+						WHERE `cartId` = 9518</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/09/24 - 05:36:13: Unknown column '853' in 'field list'<br /><br /><pre>
+						UPDATE `ps_popust_duseci`
+						SET  `SmanjenjeCeneProizvoda` = `853`, `date` = `2019-09-24 05:36:13am`
+						WHERE `cartId` = 9518</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/09/24 - 05:36:29: Unknown column '853' in 'field list'<br /><br /><pre>
+						UPDATE `ps_popust_duseci`
+						SET `SmanjenjeCeneProizvoda` = `853`, `date` = `2019-09-24 05:36:29am`
+						WHERE `cartId` = 9518</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/09/24 - 05:38:19: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '05:38:19am
+					WHERE `cartId` = 9518' at line 3<br /><br /><pre>
+					UPDATE `ps_popust_duseci`
+					SET `SmanjenjeCeneProizvoda` = 853,
+						`date` = 2019-09-24 05:38:19am
+					WHERE `cartId` = 9518</pre> at line 791 in file classes/db/Db.php

@@ -1,0 +1,37 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{dashgoals}sdreamshoptheme>dashgoals_50698c5b8ffaf2b7dd089898a244a668'] = 'Dashboard Goals';
+$_MODULE['<{dashgoals}sdreamshoptheme>dashgoals_14089da5dd6132b674d9829b136efff9'] = 'Adds a block with your store\'s forecast.';
+$_MODULE['<{dashgoals}sdreamshoptheme>dashgoals_86f5978d9b80124f509bdb71786e929e'] = 'Januar';
+$_MODULE['<{dashgoals}sdreamshoptheme>dashgoals_659e59f062c75f81259d22786d6c44aa'] = 'Februar';
+$_MODULE['<{dashgoals}sdreamshoptheme>dashgoals_fa3e5edac607a88d8fd7ecb9d6d67424'] = 'Mart';
+$_MODULE['<{dashgoals}sdreamshoptheme>dashgoals_3fcf026bbfffb63fb24b8de9d0446949'] = 'april';
+$_MODULE['<{dashgoals}sdreamshoptheme>dashgoals_195fbb57ffe7449796d23466085ce6d8'] = 'Maj';
+$_MODULE['<{dashgoals}sdreamshoptheme>dashgoals_688937ccaf2a2b0c45a1c9bbba09698d'] = 'Jun';
+$_MODULE['<{dashgoals}sdreamshoptheme>dashgoals_1b539f6f34e8503c97f6d3421346b63c'] = 'Jul';
+$_MODULE['<{dashgoals}sdreamshoptheme>dashgoals_41ba70891fb6f39327d8ccb9b1dafb84'] = 'Avgust';
+$_MODULE['<{dashgoals}sdreamshoptheme>dashgoals_cc5d90569e1c8313c2b1c2aab1401174'] = 'Septembar';
+$_MODULE['<{dashgoals}sdreamshoptheme>dashgoals_eca60ae8611369fe28a02e2ab8c5d12e'] = 'Oktobar';
+$_MODULE['<{dashgoals}sdreamshoptheme>dashgoals_7e823b37564da492ca1629b4732289a8'] = 'Novembar';
+$_MODULE['<{dashgoals}sdreamshoptheme>dashgoals_82331503174acbae012b2004f6431fa5'] = 'Decembar';
+$_MODULE['<{dashgoals}sdreamshoptheme>dashgoals_e7935ae6c516d89405ec532359d2d75a'] = 'Saobraćaj';
+$_MODULE['<{dashgoals}sdreamshoptheme>dashgoals_233d48e63da77b092da350559d2f8382'] = 'posete';
+$_MODULE['<{dashgoals}sdreamshoptheme>dashgoals_3bb1503332637805beddb73a2dd1fe1b'] = 'Konverzija';
+$_MODULE['<{dashgoals}sdreamshoptheme>dashgoals_71241798130f714cbd2786df3da2cf0b'] = 'Prosečna vrednost korpe';
+$_MODULE['<{dashgoals}sdreamshoptheme>dashgoals_11ff9f68afb6b8b5b8eda218d7c83a65'] = 'Prodaja';
+$_MODULE['<{dashgoals}sdreamshoptheme>dashgoals_9ac642c5ef334ea05256563f921bb304'] = 'Cilj je premašen';
+$_MODULE['<{dashgoals}sdreamshoptheme>dashgoals_7c103c9bbbaecee07ca898ed65667cbf'] = 'Cilj nije dostignut';
+$_MODULE['<{dashgoals}sdreamshoptheme>dashgoals_eb233580dc419f03df5905f175606e4d'] = 'Postavi cilj:';
+$_MODULE['<{dashgoals}sdreamshoptheme>config_254f642527b45bc260048e30704edb39'] = 'Konfiguracija';
+$_MODULE['<{dashgoals}sdreamshoptheme>config_e7935ae6c516d89405ec532359d2d75a'] = 'Saobraćaj';
+$_MODULE['<{dashgoals}sdreamshoptheme>config_e4c3da18c66c0147144767efeb59198f'] = 'Konverzioni kurs';
+$_MODULE['<{dashgoals}sdreamshoptheme>config_8c804960da61b637c548c951652b0cac'] = 'Prosečna korpa';
+$_MODULE['<{dashgoals}sdreamshoptheme>config_11ff9f68afb6b8b5b8eda218d7c83a65'] = 'Prodaja';
+$_MODULE['<{dashgoals}sdreamshoptheme>config_c9cc8cce247e49bae79f15173ce97354'] = 'Sačuvaj';
+$_MODULE['<{dashgoals}sdreamshoptheme>dashboard_zone_two_89c1265be62d3ba835a3d963db5956b0'] = 'Prognoza';
+$_MODULE['<{dashgoals}sdreamshoptheme>dashboard_zone_two_e7935ae6c516d89405ec532359d2d75a'] = 'Saobraćaj';
+$_MODULE['<{dashgoals}sdreamshoptheme>dashboard_zone_two_3bb1503332637805beddb73a2dd1fe1b'] = 'Konverzija';
+$_MODULE['<{dashgoals}sdreamshoptheme>dashboard_zone_two_8c804960da61b637c548c951652b0cac'] = 'Prosečna korpa';
+$_MODULE['<{dashgoals}sdreamshoptheme>dashboard_zone_two_11ff9f68afb6b8b5b8eda218d7c83a65'] = 'Prodaja';

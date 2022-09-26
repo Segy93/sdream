@@ -1,0 +1,70 @@
+#featured-category-products_block_center>h4.title_block{display:none!important;}
+#homefeatured{transition:0.3;}
+@media (min-width:200px){
+.providZ{
+    position: absolute;
+    z-index: 999;
+    top:0px;
+    left: 18px;
+    background:rgba(240,100,35,0.33);
+    padding:4px;
+}
+.providZ h1{font-size: 37px;
+    font-weight: 300;
+    color: white;text-align:center;}
+ .providZ h2 {    font-size: 31px;
+    margin-top: 0px!important;
+    color: white;text-align:center;}
+    
+}
+
+@media (max-width:1199px){
+ #htmlcontent_home ul li {
+    padding: 0 4px 10px; }
+    }
+@media (min-width:1200px){
+
+.product-container {
+  -webkit-touch-callout: none; 
+    -webkit-user-select: none; 
+     -khtml-user-select: none; 
+       -moz-user-select: none; 
+        -ms-user-select: none; 
+            user-select: none; 
+                                 
+}
+ #htmlcontent_home ul li {
+    padding: 0 4px 10px; }
+#featuredcategory{margin-top:24px;}
+
+
+#htmlcontent_home{margin-top:28px!important;}
+#homefeatured{margin-top:32px; margin-bottom:32px;}
+ul.bxslider-hometabs.product_list.grid > li.first-in-line,  ul.bxslider-hometabs.product_list.grid > li.first-item-of-tablet-line {clear:none;}
+ul.bxslider-hometabs2.product_list.grid > li.first-in-line,  ul.bxslider-hometabs2.product_list.grid > li.first-item-of-tablet-line {clear:none;}
+#index ul.product_list.tab-pane > li {
+    padding-bottom: 10px!important;
+    margin-bottom: 0;
+}
+.product-price{}
+.product-container:hover{}
+
+.right-block{position:relative; bottom:10px;}
+
+
+.product-container:hover{}
+.product-container{ transition:0.3s;}
+.product_img_link{ display: inline-block; overflow: hidden; }
+.product_img_link>img{transition:0.3s; width:250px!important;height:250px!important;}
+.product_img_link>img:hover{
+display: block;
+
+           }
+           #center_column>div>div.bx-wrapper>.bx-viewport{height:430px!important;overflow: hidden!important; }
+           .bx-viewport{   overflow: hidden!important;}
+    #featured-category-products_block_center>div.bx-wrapper>div.bx-viewport{height:430px!important;overflow: hidden!important;}
+
+
+}
+/*# sourceMappingURL=homefeatured.css.map */
+

@@ -1,0 +1,16 @@
+*ERROR* 	2019/09/27 - 03:01:03: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '03:01:02am,
+						`popustAktiviran` = `ne`
+					WHERE `cartId` = 9542' at line 3<br /><br /><pre>
+					UPDATE `ps_popust_duseci`
+					SET `SmanjenjeCeneProizvoda` = 533.6,
+						`date` = 2019-09-27 03:01:02am,
+						`popustAktiviran` = `ne`
+					WHERE `cartId` = 9542</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/09/27 - 03:26:05: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '03:26:04am,
+						`popustAktiviran` = `ne`
+					WHERE `cartId` = 9542' at line 3<br /><br /><pre>
+					UPDATE `ps_popust_duseci`
+					SET `SmanjenjeCeneProizvoda` = 533.6,
+						`date` = 2019-09-27 03:26:04am,
+						`popustAktiviran` = `ne`
+					WHERE `cartId` = 9542</pre> at line 791 in file classes/db/Db.php

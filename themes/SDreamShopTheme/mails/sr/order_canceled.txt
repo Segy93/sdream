@@ -1,0 +1,11 @@
+Zdravo {firstname} {lastname}, 
+
+Narudžbina {order_name} - je poništena.
+Vaša porudžbina sa referentnim br.  {order_name} je poništena - {shop_name} 
+
+Na strtranici "Moje porudžbine" možete videti sve detalje u vezi sa vašim porudžbinama. 
+
+Na stranici "My account" se nalazi korisnički panel na kome možete videti sve detalje u vezi sa vašim nalogom .
+
+All rights reserved © 2013 - 2017 {shop_name}
+

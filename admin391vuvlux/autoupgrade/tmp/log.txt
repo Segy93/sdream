@@ -1,0 +1,6 @@
+[2022-09-03 14:01:37] [INTERNAL] /home/sdream/public_html/sdream.rs/classes/Rijndael.php line 68 - Function mcrypt_decrypt() is deprecated
+[2022-09-03 14:01:37] [INTERNAL] /home/sdream/public_html/sdream.rs/classes/Rijndael.php line 68 - Function mcrypt_decrypt() is deprecated
+[2022-09-03 14:01:37] [INTERNAL] /home/sdream/public_html/sdream.rs/classes/Rijndael.php line 68 - Function mcrypt_decrypt() is deprecated
+[2022-09-03 14:02:09] [INTERNAL] /home/sdream/public_html/sdream.rs/classes/Rijndael.php line 68 - Function mcrypt_decrypt() is deprecated
+[2022-09-03 14:02:10] [INTERNAL] /home/sdream/public_html/sdream.rs/classes/Rijndael.php line 68 - Function mcrypt_decrypt() is deprecated
+[2022-09-03 14:02:10] [INTERNAL] /home/sdream/public_html/sdream.rs/classes/Rijndael.php line 68 - Function mcrypt_decrypt() is deprecated

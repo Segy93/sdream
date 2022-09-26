@@ -1,0 +1,20 @@
+[/{shop_url}] 
+
+Poruka od {shop_name} kupca 
+
+TIP PORUKE:{extrafield3}
+
+BROJ TELEFONA:{extrafield4}
+
+BROJ VAŠE PORUDŽBINE:{extrafield5}
+
+MEJL KUPCA: {email}
+
+IME I PREZIME: {extrafield2}
+
+PREDMET PORUKE: {extrafield}
+
+PORUKA KUPCA: {message}
+	 
+All rights reserved © 2013 - 2017 {shop_name}
+

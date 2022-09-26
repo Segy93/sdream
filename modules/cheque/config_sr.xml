@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>cheque</name>
+	<displayName><![CDATA[Čekovi]]></displayName>
+	<version><![CDATA[2.7.2]]></version>
+	<description><![CDATA[Ovaj modul Vam omogućava prihvatanje plaćanja čekom.]]></description>
+	<author><![CDATA[PrestaShop]]></author>
+	<tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[Da li ste sigurni da želite da obrišete Vaše detalje?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

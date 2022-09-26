@@ -1,0 +1,7 @@
+[/{shop_url}] 
+
+Zdravo {firstname} {lastname}, 
+
+{message} 
+
+All rights reserved © 2013 - 2017 {shop_name}

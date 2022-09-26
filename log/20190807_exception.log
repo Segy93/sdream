@@ -1,0 +1,40 @@
+*ERROR* 	2019/08/07 - 06:12:57: FUNCTION sdream_webshop.COUNiT does not exist<br /><br /><pre>
+		SELECT COUNiT(`id_order`) AS used
+		FROM `ps_orders`
+		WHERE `id_address_delivery` = 733
+		OR `id_address_invoice` = 733 LIMIT 1</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/08/07 - 06:13:55: FUNCTION sdream_webshop.COUNiT does not exist<br /><br /><pre>
+		SELECT COUNiT(`id_order`) AS used
+		FROM `ps_orders`
+		WHERE `id_address_delivery` = 733
+		OR `id_address_invoice` = 733 LIMIT 1</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/08/07 - 06:14:23: FUNCTION sdream_webshop.COUNiT does not exist<br /><br /><pre>
+		SELECT COUNiT(`id_order`) AS used
+		FROM `ps_orders`
+		WHERE `id_address_delivery` = 733
+		OR `id_address_invoice` = 733 LIMIT 1</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/08/07 - 06:15:36: FUNCTION sdream_webshop.COUNiT does not exist<br /><br /><pre>
+		SELECT COUNiT(`id_order`) AS used
+		FROM `ps_orders`
+		WHERE `id_address_delivery` = 733
+		OR `id_address_invoice` = 733 LIMIT 1</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/08/07 - 08:57:51: FUNCTION sdream_webshop.COUNiT does not exist<br /><br /><pre>
+		SELECT COUNiT(`id_order`) AS used
+		FROM `ps_orders`
+		WHERE `id_address_delivery` = 734
+		OR `id_address_invoice` = 734 LIMIT 1</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/08/07 - 08:57:57: FUNCTION sdream_webshop.COUNiT does not exist<br /><br /><pre>
+		SELECT COUNiT(`id_order`) AS used
+		FROM `ps_orders`
+		WHERE `id_address_delivery` = 734
+		OR `id_address_invoice` = 734 LIMIT 1</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/08/07 - 08:58:20: FUNCTION sdream_webshop.COUNiT does not exist<br /><br /><pre>
+		SELECT COUNiT(`id_order`) AS used
+		FROM `ps_orders`
+		WHERE `id_address_delivery` = 734
+		OR `id_address_invoice` = 734 LIMIT 1</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/08/07 - 08:58:42: FUNCTION sdream_webshop.COUNiT does not exist<br /><br /><pre>
+		SELECT COUNiT(`id_order`) AS used
+		FROM `ps_orders`
+		WHERE `id_address_delivery` = 734
+		OR `id_address_invoice` = 734 LIMIT 1</pre> at line 791 in file classes/db/Db.php

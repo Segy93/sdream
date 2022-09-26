@@ -1,0 +1,63 @@
+Zdravo {firstname} {lastname},
+
+HVALA VAM NA KUPOVINI - {shop_name}! 
+
+PORUDŽBINA: {order_name}	 
+
+NAPOMENA
+
+PROIZVOD
+
+JED.CENA
+
+KOLIČINA
+
+UKUPNA CENA
+
+{products_txt} 
+
+{discounts} 
+
+PROIZVODI 
+
+{total_products} 
+
+POPUSTI 
+
+{total_discounts} 
+
+PAKOVANJE POKLONA 
+
+{total_wrapping} 
+
+ISPORUKA 
+
+{total_shipping} 
+
+UKUPNI PDV 
+
+{total_tax_paid} 
+
+UKUPNO PLAĆENO 
+
+{total_paid} 
+
+KURIRSKA SLUŽBA: {carrier}
+
+PLAĆANJE: {payment} 		 
+
+{delivery_block_txt} 
+
+{invoice_block_txt} 
+
+Na strtranici "Moje porudžbine" možete videti sve detalje u vezi sa vašim porudžbinama. 
+
+Na stranici "Moj nalog" se nalazi korisnički panel na kome možete videti sve detalje u vezi sa vašim nalogom .
+clicking "Moj nalog" [/{my_account_url}] on our shop. 
+
+Ako imate gostujući nalog, možete pratiti vašu narudžbinu
+putem sekcije "Praćenje gosta"
+[/{guest_tracking_url}?id_order={order_name}] u našoj radnji. 
+
+All rights reserved © 2013 - 2017 {shop_name}
+

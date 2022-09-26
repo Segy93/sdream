@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>blocknewsletter</name>
+	<displayName><![CDATA[Bilten blok]]></displayName>
+	<version><![CDATA[2.4.0]]></version>
+	<description><![CDATA[Додаје блок за билтен претплату.]]></description>
+	<author><![CDATA[PrestaShop]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[Да ли сте сигурни да желите да избришете све своје контакте?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

@@ -1,0 +1,12 @@
+[/{shop_url}] 
+
+Your message to {shop_name} Customer Service 
+
+Your message has been sent successfully.
+
+SUBJECT: {extrafield}
+
+MESSAGE: {message}
+	 
+We will answer as soon as possible. 
+

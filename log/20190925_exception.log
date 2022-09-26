@@ -1,0 +1,116 @@
+*ERROR* 	2019/09/25 - 02:23:42: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1 LIMIT 1' at line 1<br /><br /><pre>1 LIMIT 1</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/09/25 - 02:49:07: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `cartId` = 9526' at line 3<br /><br /><pre>
+					UPDATE `ps_popust_duseci`
+					SET `popustAktiviran` = `da`,
+					WHERE `cartId` = 9526</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/09/25 - 02:49:30: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `cartId` = 9526' at line 3<br /><br /><pre>
+					UPDATE `ps_popust_duseci`
+					SET `popustAktiviran` = `da`,
+					WHERE `cartId` = 9526</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/09/25 - 02:49:45: Unknown column 'da' in 'field list'<br /><br /><pre>
+					UPDATE `ps_popust_duseci`
+					SET `popustAktiviran` = `da`
+					WHERE `cartId` = 9526</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/09/25 - 02:50:19: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `cartId` = 9526' at line 3<br /><br /><pre>
+					UPDATE `ps_popust_duseci`
+					SET `popustAktiviran` = `da`,
+					WHERE `cartId` = 9526</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/09/25 - 02:51:41: Unknown column 'da' in 'field list'<br /><br /><pre>
+					UPDATE `ps_popust_duseci`
+					SET `popustAktiviran` = `da`
+					WHERE `cartId` = 9526</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/09/25 - 02:51:59: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `cartId` = 9526' at line 3<br /><br /><pre>
+					UPDATE `ps_popust_duseci`
+					SET `popustAktiviran` = `da`,
+					WHERE `cartId` = 9526</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/09/25 - 02:52:20: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `cartId` = 9526' at line 3<br /><br /><pre>
+					UPDATE `ps_popust_duseci`
+					SET `popustAktiviran` = `da`,
+					WHERE `cartId` = 9526</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/09/25 - 02:54:35: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `cartId` = 9526' at line 3<br /><br /><pre>
+            					UPDATE `ps_popust_duseci`
+            					SET `popustAktiviran` = da,
+            					WHERE `cartId` = 9526</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/09/25 - 02:54:59: Unknown column 'da' in 'field list'<br /><br /><pre>
+            					UPDATE `ps_popust_duseci`
+            					SET `popustAktiviran` = da
+            					WHERE `cartId` = 9526</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/09/25 - 02:56:10: Unknown column 'da' in 'field list'<br /><br /><pre>
+                					UPDATE `ps_popust_duseci`
+                					SET `popustAktiviran` = `da`
+                					WHERE `cartId` = 9526</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/09/25 - 02:56:31: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `cartId` = 9526' at line 3<br /><br /><pre>
+                					UPDATE `ps_popust_duseci`
+                					SET `popustAktiviran` = `da`,
+                					WHERE `cartId` = 9526</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/09/25 - 02:56:39: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `cartId` = 9526' at line 3<br /><br /><pre>
+                					UPDATE `ps_popust_duseci`
+                					SET `popustAktiviran` = da,
+                					WHERE `cartId` = 9526</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/09/25 - 02:56:49: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE cartId = 9526' at line 3<br /><br /><pre>
+                					UPDATE `ps_popust_duseci`
+                					SET `popustAktiviran` = da,
+                					WHERE cartId = 9526</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/09/25 - 02:58:09: Unknown column 'da' in 'field list'<br /><br /><pre>
+					UPDATE `ps_popust_duseci`
+					SET `popustAktiviran` = da
+					WHERE `cartId` = 9526</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/09/25 - 02:59:01: Unknown column '12' in 'field list'<br /><br /><pre>
+					UPDATE `ps_popust_duseci`
+					SET `popustAktiviran` = `12`
+					WHERE `cartId` = 9526</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/09/25 - 02:59:11: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `cartId` = 9526' at line 3<br /><br /><pre>
+					UPDATE `ps_popust_duseci`
+					SET `popustAktiviran` = `12`,
+					WHERE `cartId` = 9526</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/09/25 - 02:59:25: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `cartId` = 9526' at line 3<br /><br /><pre>
+					UPDATE `ps_popust_duseci`
+					SET `popustAktiviran` = 12,
+					WHERE `cartId` = 9526</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/09/25 - 02:59:56: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `cartId` = 12' at line 3<br /><br /><pre>
+					UPDATE `ps_popust_duseci`
+					SET `popustAktiviran` = 12,
+					WHERE `cartId` = 12</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/09/25 - 03:01:03: Unknown column 'da' in 'field list'<br /><br /><pre>
+                					UPDATE `ps_popust_duseci`
+                					SET `popustAktiviran` = da
+                					WHERE `cartId` = 9526</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/09/25 - 03:04:27: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `cartId` = 9526' at line 3<br /><br /><pre>
+                					UPDATE `ps_popust_duseci`
+                					SET `popustAktiviran` = da,
+                					WHERE `cartId` = 9526</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/09/25 - 03:05:01: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `cartId` = 9526' at line 3<br /><br /><pre>
+                					UPDATE `ps_popust_duseci`
+                					SET `popustAktiviran` = da,
+                					WHERE `cartId` = 9526</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/09/25 - 03:05:27: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `cartId` = 9526' at line 3<br /><br /><pre>
+                					UPDATE `ps_popust_duseci`
+                					SET `popustAktiviran` = da,
+                					WHERE `cartId` = 9526</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/09/25 - 03:05:44: Unknown column 'id_customization' in 'where clause'<br /><br /><pre>
+					UPDATE `ps_popust_duseci`
+					SET `popustAktiviran` = `da`
+					WHERE `id_customization` = 9526</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/09/25 - 03:05:59: Unknown column 'da' in 'field list'<br /><br /><pre>
+					UPDATE `ps_popust_duseci`
+					SET `popustAktiviran` = `da`
+					WHERE `cartId` = 9526</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/09/25 - 03:06:10: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `cartId` = 9526' at line 3<br /><br /><pre>
+					UPDATE `ps_popust_duseci`
+					SET `popustAktiviran` = `da`,
+					WHERE `cartId` = 9526</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/09/25 - 03:06:27: Unknown column 'da' in 'field list'<br /><br /><pre>
+					UPDATE `ps_popust_duseci`
+					SET `popustAktiviran` = da
+					WHERE `cartId` = 9526</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/09/25 - 03:06:53: Unknown column 'da' in 'field list'<br /><br /><pre>
+					UPDATE `ps_popust_duseci`
+					SET `popustAktiviran` = da
+					WHERE `cartId` = 9526</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/09/25 - 03:13:38: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '03:13:36am,
+						`popustAktiviran` = `da`
+					WHERE `cartId` = 9526' at line 2<br /><br /><pre>
+					UPDATE `ps_popust_duseci`
+					SET `date` = 2019-09-25 03:13:36am,
+						`popustAktiviran` = `da`
+					WHERE `cartId` = 9526</pre> at line 791 in file classes/db/Db.php

@@ -1,0 +1,18 @@
+<?php /*%%SmartyHeaderCode:15838094505d2fca905f6ee8-72723865%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+$_valid = $_smarty_tpl->decodeProperties(array (
+  'file_dependency' => 
+  array (
+    '7f7204c6c6122c8e4990213d9edc618c66d1c389' => 
+    array (
+      0 => '/home/sdream/public_html/sdream.rs/themes/default-bootstrap/modules/productscategory/productscategory.tpl',
+      1 => 1494957222,
+      2 => 'file',
+    ),
+  ),
+  'nocache_hash' => '15838094505d2fca905f6ee8-72723865',
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_5d2fd45c5be011_29689427',
+  'has_nocache_code' => false,
+  'cache_lifetime' => 31536000,
+),true); /*/%%SmartyHeaderCode%%*/?>
+<?php if ($_valid && !is_callable('content_5d2fd45c5be011_29689427')) {function content_5d2fd45c5be011_29689427($_smarty_tpl) {?><section class="page-product-box blockproductscategory"><h3 class="productscategory_h3 page-product-heading"> 3 other products in the same category:</h3><div id="productscategory_list" class="clearfix"><ul id="bxslider1" class="bxslider clearfix"><li class="product-box item"> <a href="https://www.sdream.rs/sr/duseci-sa-zicanim-jezgrom/forma-22cm/" class="lnk_img product-image" title="Forma, 22cm"><img src="https://www.sdream.rs/43-home_default/forma-22cm.jpg" alt="Forma, 22cm" /></a><h5 itemprop="name" class="product-name"> <a href="https://www.sdream.rs/sr/duseci-sa-zicanim-jezgrom/forma-22cm/" title="Forma, 22cm">Forma, 22cm</a></h5><p class="price_display"> <span class="price special-price">9 124,00 RSD</span> <span class="old-price">11 850,00 RSD</span></p><div class="clearfix" style="margin-top:5px"><div class="no-print"> <a class="exclusive button ajax_add_to_cart_button" href="https://www.sdream.rs/sr/cart?qty=1&amp;id_product=22&amp;token=6f6b4e4a5400e23a9c7fa1c7527404dc&amp;add=" data-id-product="22" title="Dodaj u korpu"> <span>Dodaj u korpu</span> </a></div></div></li><li class="product-box item"> <a href="https://www.sdream.rs/sr/duseci-sa-zicanim-jezgrom/fleks-24cm/" class="lnk_img product-image" title="Fleks, 24cm"><img src="https://www.sdream.rs/93-home_default/fleks-24cm.jpg" alt="Fleks, 24cm" /></a><h5 itemprop="name" class="product-name"> <a href="https://www.sdream.rs/sr/duseci-sa-zicanim-jezgrom/fleks-24cm/" title="Fleks, 24cm">Fleks, 24cm</a></h5><p class="price_display"> <span class="price special-price">12 820,00 RSD</span> <span class="old-price">16 650,00 RSD</span></p><div class="clearfix" style="margin-top:5px"><div class="no-print"> <a class="exclusive button ajax_add_to_cart_button" href="https://www.sdream.rs/sr/cart?qty=1&amp;id_product=64&amp;token=6f6b4e4a5400e23a9c7fa1c7527404dc&amp;add=" data-id-product="64" title="Dodaj u korpu"> <span>Dodaj u korpu</span> </a></div></div></li><li class="product-box item"> <a href="https://www.sdream.rs/sr/duseci-sa-zicanim-jezgrom/kronos-spring-23cm/" class="lnk_img product-image" title="Kronos Spring, 23cm"><img src="https://www.sdream.rs/103-home_default/kronos-spring-23cm.jpg" alt="Kronos Spring, 23cm" /></a><h5 itemprop="name" class="product-name"> <a href="https://www.sdream.rs/sr/duseci-sa-zicanim-jezgrom/kronos-spring-23cm/" title="Kronos Spring, 23cm">Kronos...</a></h5><p class="price_display"> <span class="price">11 180,00 RSD</span></p><div class="clearfix" style="margin-top:5px"><div class="no-print"> <a class="exclusive button ajax_add_to_cart_button" href="https://www.sdream.rs/sr/cart?qty=1&amp;id_product=66&amp;token=6f6b4e4a5400e23a9c7fa1c7527404dc&amp;add=" data-id-product="66" title="Dodaj u korpu"> <span>Dodaj u korpu</span> </a></div></div></li></ul></div> </section><?php }} ?>

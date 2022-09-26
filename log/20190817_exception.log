@@ -1,0 +1,15 @@
+*ERROR* 	2019/08/17 - 14:51:55: FUNCTION sdream_webshop.COUNiT does not exist<br /><br /><pre>
+		SELECT COUNiT(`id_order`) AS used
+		FROM `ps_orders`
+		WHERE `id_address_delivery` = 669
+		OR `id_address_invoice` = 669 LIMIT 1</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/08/17 - 14:52:28: FUNCTION sdream_webshop.COUNiT does not exist<br /><br /><pre>
+		SELECT COUNiT(`id_order`) AS used
+		FROM `ps_orders`
+		WHERE `id_address_delivery` = 669
+		OR `id_address_invoice` = 669 LIMIT 1</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2019/08/17 - 14:53:03: FUNCTION sdream_webshop.COUNiT does not exist<br /><br /><pre>
+		SELECT COUNiT(`id_order`) AS used
+		FROM `ps_orders`
+		WHERE `id_address_delivery` = 669
+		OR `id_address_invoice` = 669 LIMIT 1</pre> at line 791 in file classes/db/Db.php

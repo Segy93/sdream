@@ -1,0 +1,13 @@
+*ERROR* 	2018/04/04 - 10:15:13: Query execution was interrupted<br /><br /><pre>
+                    SELECT `name`, GROUP_CONCAT(value ORDER BY `fv`.`position` SEPARATOR ", ") AS `value`, `pf`.`id_feature`, `liflv`.`url_name`, `liflv`.`meta_title`
+                    FROM `ps_feature_product` `pf`
+                    LEFT JOIN `ps_feature_lang` `fl` ON (`fl`.`id_feature` = `pf`.`id_feature` AND `fl`.`id_lang` = 2)
+                    LEFT JOIN `ps_feature_value_lang` `fvl` ON (`fvl`.`id_feature_value` = `pf`.`id_feature_value` AND `fvl`.`id_lang` = 2)
+                    LEFT JOIN `ps_feature` `f` ON (`f`.`id_feature` = `pf`.`id_feature` AND `fl`.`id_lang` = 2)
+                    LEFT JOIN ps_feature_value `fv` ON `fv`.`id_feature_value` = `pf`.`id_feature_value`
+                    LEFT JOIN `ps_layered_indexable_feature_lang_value` `liflv` ON (`f`.`id_feature` = `liflv`.`id_feature` AND `liflv`.`id_lang` = 2)
+                     INNER JOIN ps_feature_shop feature_shop
+		ON (feature_shop.id_feature = f.id_feature AND feature_shop.id_shop = 1)
+                    WHERE pf.`id_product` = 40
+                    GROUP BY `name`, pf.`id_feature`
+                    ORDER BY f.`position` ASC</pre> at line 791 in file classes/db/Db.php

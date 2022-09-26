@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>blockcontact</name>
+	<displayName><![CDATA[Kontakt blok]]></displayName>
+	<version><![CDATA[1.4.1]]></version>
+	<description><![CDATA[Dozvoljava vam da dodate dodatne informacije o korisničkom servisu va&scaron;e prodavnice.]]></description>
+	<author><![CDATA[PrestaShop]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
